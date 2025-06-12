@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Army Officer Uniform (SST) -->
+  <Apparel_SSTArmyOfficerUniform.label>Army Officer Uniform (SST)</Apparel_SSTArmyOfficerUniform.label>
+  <!-- EN: A uniform used by officers within the Army, these are nice uniforms and can inspire troops around said officers. Just don't get too dirty.. -->
+  <Apparel_SSTArmyOfficerUniform.description>A uniform used by officers within the Army, these are nice uniforms and can inspire troops around said officers. Just don't get too dirty..</Apparel_SSTArmyOfficerUniform.description>
+  <!-- EN: Intel Armor (SST) -->
+  <Apparel_SSTBlackArmor.label>Intel Armor (SST)</Apparel_SSTBlackArmor.label>
+  <!-- EN: This armor boasts better protection than regular Mobile Infantry armor, however it is not as good as Intelligence Infantry Armor, therefore it probably shouldn't be relied on too much. It also has a nice eagle on the chest plate, in case the enemy forgot they were fighting the navy, not the mobile infantry. -->
+  <Apparel_SSTBlackArmor.description>This armor boasts better protection than regular Mobile Infantry armor, however it is not as good as Intelligence Infantry Armor, therefore it probably shouldn't be relied on too much. It also has a nice eagle on the chest plate, in case the enemy forgot they were fighting the navy, not the mobile infantry.</Apparel_SSTBlackArmor.description>
+  <!-- EN: Staff Officer Uniform (SST) -->
+  <Apparel_SSTIntelOfficerUniform.label>Staff Officer Uniform (SST)</Apparel_SSTIntelOfficerUniform.label>
+  <!-- EN: A uniform used by Staff Officers and Intelligence personnel, it is black with two metal litzen on the inner-shirt's collar to signify their importance. Damn spooks. -->
+  <Apparel_SSTIntelOfficerUniform.description>A uniform used by Staff Officers and Intelligence personnel, it is black with two metal litzen on the inner-shirt's collar to signify their importance. Damn spooks.</Apparel_SSTIntelOfficerUniform.description>
+  <!-- EN: Black Trooper Uniform (SST) -->
+  <Apparel_SSTIntelUniform.label>Black Trooper Uniform (SST)</Apparel_SSTIntelUniform.label>
+  <!-- EN: A nicer, black uniform variation of the standard M.I. trooper uniform. This belongs to Naval Intelligence troopers. -->
+  <Apparel_SSTIntelUniform.description>A nicer, black uniform variation of the standard M.I. trooper uniform. This belongs to Naval Intelligence troopers.</Apparel_SSTIntelUniform.description>
+  <!-- EN: Marine Uniform (SST) -->
+  <Apparel_SSTMarine.label>Marine Uniform (SST)</Apparel_SSTMarine.label>
+  <!-- EN: A uniform of the Federation Marines, a prestigious corps of troopers who chomp down on bugs like fresh crayons. This uniform comes in their iconic Navy green and boasts navy collar tabs instead of the Mobile Infantry's dark collar, due to their allegiance to the Federation Navy. -->
+  <Apparel_SSTMarine.description>A uniform of the Federation Marines, a prestigious corps of troopers who chomp down on bugs like fresh crayons. This uniform comes in their iconic Navy green and boasts navy collar tabs instead of the Mobile Infantry's dark collar, due to their allegiance to the Federation Navy.</Apparel_SSTMarine.description>
+  <!-- EN: Marshal Uniform (SST) -->
+  <Apparel_SSTMarshal.label>Marshal Uniform (SST)</Apparel_SSTMarshal.label>
+  <!-- EN: A uniform used by High-Ranking Officials within the Federation, and Intelligence Officers. This uniform is extremely beautiful and can inspire anyone around them, making an M.I.'s worst day, his best. -->
+  <Apparel_SSTMarshal.description>A uniform used by High-Ranking Officials within the Federation, and Intelligence Officers. This uniform is extremely beautiful and can inspire anyone around them, making an M.I.'s worst day, his best.</Apparel_SSTMarshal.description>
+  <!-- EN: Medic Armor (SST) -->
+  <Apparel_SSTMedicArmor.label>Medic Armor (SST)</Apparel_SSTMedicArmor.label>
+  <!-- EN: A lighter, less-protective version of the mobile infantry armor, this armor is meant to allow medics to move quickly through a battlefield to their patients. It's red design is great for the enemy's target practice. -->
+  <Apparel_SSTMedicArmor.description>A lighter, less-protective version of the mobile infantry armor, this armor is meant to allow medics to move quickly through a battlefield to their patients. It's red design is great for the enemy's target practice.</Apparel_SSTMedicArmor.description>
+  <!-- EN: M.I Armor (SST) -->
+  <Apparel_SSTMIArmor.label>M.I Armor (SST)</Apparel_SSTMIArmor.label>
+  <!-- EN: A standard-issue chest plate used by the mobile infantry to protect them from, well, I don't really know. It may as well be a placebo; after all, its the thought that counts! -->
+  <Apparel_SSTMIArmor.description>A standard-issue chest plate used by the mobile infantry to protect them from, well, I don't really know. It may as well be a placebo; after all, its the thought that counts!</Apparel_SSTMIArmor.description>
+  <!-- EN: Navy Armor (SST) -->
+  <Apparel_SSTNavyArmor.label>Navy Armor (SST)</Apparel_SSTNavyArmor.label>
+  <!-- EN: This armor boasts better protection than regular Mobile Infantry armor, however it is not as good as Intelligence Infantry Armor, therefore it probably shouldn't be relied on too much. It also has a nice eagle on the chest plate, in case the enemy forgot they were fighting the navy, not the mobile infantry. -->
+  <Apparel_SSTNavyArmor.description>This armor boasts better protection than regular Mobile Infantry armor, however it is not as good as Intelligence Infantry Armor, therefore it probably shouldn't be relied on too much. It also has a nice eagle on the chest plate, in case the enemy forgot they were fighting the navy, not the mobile infantry.</Apparel_SSTNavyArmor.description>
+  <!-- EN: Navy Officer Uniform (SST) -->
+  <Apparel_SSTNavyOfficerUniform.label>Navy Officer Uniform (SST)</Apparel_SSTNavyOfficerUniform.label>
+  <!-- EN: The standard uniform used by navy personnel, with two variations in either the common drab-blue green, or khaki white. -->
+  <Apparel_SSTNavyOfficerUniform.description>The standard uniform used by navy personnel, with two variations in either the common drab-blue green, or khaki white.</Apparel_SSTNavyOfficerUniform.description>
+  <!-- EN: Navy Officer Uniform 2 (SST) -->
+  <Apparel_SSTNavyOfficerUniformTwo.label>Navy Officer Uniform 2 (SST)</Apparel_SSTNavyOfficerUniformTwo.label>
+  <!-- EN: The standard uniform used by navy personnel, with two variations in either the common drab-blue green, or khaki white. -->
+  <Apparel_SSTNavyOfficerUniformTwo.description>The standard uniform used by navy personnel, with two variations in either the common drab-blue green, or khaki white.</Apparel_SSTNavyOfficerUniformTwo.description>
+  <!-- EN: Trooper Uniform (SST) -->
+  <Apparel_SSTtrooper.label>Trooper Uniform (SST)</Apparel_SSTtrooper.label>
+  <!-- EN: The standard, grey uniform used by Mobile Infantrymen, these uniforms give no better protection than the cloth it is made of. Bullets will rip through any ape in this outfit. It looks great though! -->
+  <Apparel_SSTtrooper.description>The standard, grey uniform used by Mobile Infantrymen, these uniforms give no better protection than the cloth it is made of. Bullets will rip through any ape in this outfit. It looks great though!</Apparel_SSTtrooper.description>
+</LanguageData>

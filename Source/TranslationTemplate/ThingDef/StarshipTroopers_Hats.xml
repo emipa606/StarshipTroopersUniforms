@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Fieldcap (SST) -->
+  <Apparel_SSTFieldcap.label>Fieldcap (SST)</Apparel_SSTFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTFieldcap.description>
+  <!-- EN: Helmet (SST) -->
+  <Apparel_SSTHelmet.label>Helmet (SST)</Apparel_SSTHelmet.label>
+  <!-- EN: A standard-issue helmet fielded by the Mobile Infantry. Comes in only Grey, you ape. -->
+  <Apparel_SSTHelmet.description>A standard-issue helmet fielded by the Mobile Infantry. Comes in only Grey, you ape.</Apparel_SSTHelmet.description>
+  <!-- EN: Inteligence Guard Fieldcap (SST) -->
+  <Apparel_SSTIntFieldcap.label>Inteligence Guard Fieldcap (SST)</Apparel_SSTIntFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTIntFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTIntFieldcap.description>
+  <!-- EN: Intel Guard Helmet (SST) -->
+  <Apparel_SSTIntHelmet.label>Intel Guard Helmet (SST)</Apparel_SSTIntHelmet.label>
+  <!-- EN: A black version of the regular ballistic helmet, utilized by the higher-tier intelligence guards of the Federation. -->
+  <Apparel_SSTIntHelmet.description>A black version of the regular ballistic helmet, utilized by the higher-tier intelligence guards of the Federation.</Apparel_SSTIntHelmet.description>
+  <!-- EN: Inteligence Guard Medical Fieldcap (SST) -->
+  <Apparel_SSTIntMedcap.label>Inteligence Guard Medical Fieldcap (SST)</Apparel_SSTIntMedcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTIntMedcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTIntMedcap.description>
+  <!-- EN: Intel Guard Helmet Medical (SST) -->
+  <Apparel_SSTIntMedHelmet.label>Intel Guard Helmet Medical (SST)</Apparel_SSTIntMedHelmet.label>
+  <!-- EN: A variation of the regular helmet given to illusive Intelligence Infantry, this helmet gives more protection but signifies the wearer as a medic. It also makes them even more of a target than the regular helmet.. -->
+  <Apparel_SSTIntMedHelmet.description>A variation of the regular helmet given to illusive Intelligence Infantry, this helmet gives more protection but signifies the wearer as a medic. It also makes them even more of a target than the regular helmet..</Apparel_SSTIntMedHelmet.description>
+  <!-- EN: Inteligence Guard NCO Fieldcap (SST) -->
+  <Apparel_SSTIntnNcoFieldcap.label>Inteligence Guard NCO Fieldcap (SST)</Apparel_SSTIntnNcoFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTIntnNcoFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTIntnNcoFieldcap.description>
+  <!-- EN: Intel OfficerCap (SST) -->
+  <Apparel_SSTIntOfficerCap.label>Intel OfficerCap (SST)</Apparel_SSTIntOfficerCap.label>
+  <!-- EN: This officer cap was worn by military intelligence officials and staff officers of the federation. It boasts an impressive design for spooks. -->
+  <Apparel_SSTIntOfficerCap.description>This officer cap was worn by military intelligence officials and staff officers of the federation. It boasts an impressive design for spooks.</Apparel_SSTIntOfficerCap.description>
+  <!-- EN: Intel OfficerCap 2(SST) -->
+  <Apparel_SSTIntOfficerCapTwo.label>Intel OfficerCap 2(SST)</Apparel_SSTIntOfficerCapTwo.label>
+  <!-- EN: This officer cap was worn by military intelligence officials and staff officers of the federation. It boasts an impressive design for spooks. -->
+  <Apparel_SSTIntOfficerCapTwo.description>This officer cap was worn by military intelligence officials and staff officers of the federation. It boasts an impressive design for spooks.</Apparel_SSTIntOfficerCapTwo.description>
+  <!-- EN: Intel Guard Helmet Visor (SST) -->
+  <Apparel_SSTIntVisHelmet.label>Intel Guard Helmet Visor (SST)</Apparel_SSTIntVisHelmet.label>
+  <!-- EN: A black version of the regular ballistic helmet, utilized by the higher-tier intelligence guards of the Federation. -->
+  <Apparel_SSTIntVisHelmet.description>A black version of the regular ballistic helmet, utilized by the higher-tier intelligence guards of the Federation.</Apparel_SSTIntVisHelmet.description>
+  <!-- EN: Marine Fieldcap (SST) -->
+  <Apparel_SSTMarineFieldcap.label>Marine Fieldcap (SST)</Apparel_SSTMarineFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTMarineFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTMarineFieldcap.description>
+  <!-- EN: Marine Helmet (SST) -->
+  <Apparel_SSTMarineHelmet.label>Marine Helmet (SST)</Apparel_SSTMarineHelmet.label>
+  <!-- EN: These helmets boast no more protection (or placebo) as the regular mobile infantry helmets do,	however they are painted at the dome with a drab green, to match the undergarments of an elite federation marine. -->
+  <Apparel_SSTMarineHelmet.description>These helmets boast no more protection (or placebo) as the regular mobile infantry helmets do,	however they are painted at the dome with a drab green, to match the undergarments of an elite federation marine.</Apparel_SSTMarineHelmet.description>
+  <!-- EN: Marine NCO Fieldcap (SST) -->
+  <Apparel_SSTMarineNCOFieldcap.label>Marine NCO Fieldcap (SST)</Apparel_SSTMarineNCOFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTMarineNCOFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTMarineNCOFieldcap.description>
+  <!-- EN: Marshal Cap (SST) -->
+  <Apparel_SSTMarshalCap.label>Marshal Cap (SST)</Apparel_SSTMarshalCap.label>
+  <!-- EN: An officer cap that is adorned with the elegant designs of a prestigious rank within the federation. Military Generals and high-ranked Intelligence Officers wore this. -->
+  <Apparel_SSTMarshalCap.description>An officer cap that is adorned with the elegant designs of a prestigious rank within the federation. Military Generals and high-ranked Intelligence Officers wore this.</Apparel_SSTMarshalCap.description>
+  <!-- EN: Marshal Cap 2 (SST) -->
+  <Apparel_SSTMarshalCapTwo.label>Marshal Cap 2 (SST)</Apparel_SSTMarshalCapTwo.label>
+  <!-- EN: An officer cap that is adorned with the elegant designs of a prestigious rank within the federation. Military Generals and high-ranked Intelligence Officers wore this. -->
+  <Apparel_SSTMarshalCapTwo.description>An officer cap that is adorned with the elegant designs of a prestigious rank within the federation. Military Generals and high-ranked Intelligence Officers wore this.</Apparel_SSTMarshalCapTwo.description>
+  <!-- EN: Medical Fieldcap (SST) -->
+  <Apparel_SSTMedFieldcap.label>Medical Fieldcap (SST)</Apparel_SSTMedFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTMedFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTMedFieldcap.description>
+  <!-- EN: Medic Helmet (SST) -->
+  <Apparel_SSTMedicHelmet.label>Medic Helmet (SST)</Apparel_SSTMedicHelmet.label>
+  <!-- EN: A variation of the regular helmet given to Mobile Infantrymen, this helmet gives no more protection but signifies the wearer as a medic. Also known as a bullseye. -->
+  <Apparel_SSTMedicHelmet.description>A variation of the regular helmet given to Mobile Infantrymen, this helmet gives no more protection but signifies the wearer as a medic. Also known as a bullseye.</Apparel_SSTMedicHelmet.description>
+  <!-- EN: MP Helmet (SST) -->
+  <Apparel_SSTMPHelmet.label>MP Helmet (SST)</Apparel_SSTMPHelmet.label>
+  <!-- EN: A helmet with the same design and function as a regular Mobile Infantry helmet, this headpiece is adorned with the initials for the federation Military Police. -->
+  <Apparel_SSTMPHelmet.description>A helmet with the same design and function as a regular Mobile Infantry helmet, this headpiece is adorned with the initials for the federation Military Police.</Apparel_SSTMPHelmet.description>
+  <!-- EN: NCO Fieldcap (SST) -->
+  <Apparel_SSTNCOFieldcap.label>NCO Fieldcap (SST)</Apparel_SSTNCOFieldcap.label>
+  <!-- EN: A field cap that keeps the sun out of a user's eyes, and appears to be very stylish. -->
+  <Apparel_SSTNCOFieldcap.description>A field cap that keeps the sun out of a user's eyes, and appears to be very stylish.</Apparel_SSTNCOFieldcap.description>
+  <!-- EN: OfficerCap(SST) -->
+  <Apparel_SSTOfficerCap.label>OfficerCap(SST)</Apparel_SSTOfficerCap.label>
+  <!-- EN: A cap belonging to Army officers within the federation. This cap has an impressive design, but simple layout. -->
+  <Apparel_SSTOfficerCap.description>A cap belonging to Army officers within the federation. This cap has an impressive design, but simple layout.</Apparel_SSTOfficerCap.description>
+  <!-- EN: OfficerCap 2(SST) -->
+  <Apparel_SSTOfficerCapTwo.label>OfficerCap 2(SST)</Apparel_SSTOfficerCapTwo.label>
+  <!-- EN: An officer cap belonging to low-rank army officers. These caps are nice, but are quite bare as are the talents of those who wear them. -->
+  <Apparel_SSTOfficerCapTwo.description>An officer cap belonging to low-rank army officers. These caps are nice, but are quite bare as are the talents of those who wear them.</Apparel_SSTOfficerCapTwo.description>
+  <!-- EN: Service Cap (SST) -->
+  <Apparel_SSTServiceCap.label>Service Cap (SST)</Apparel_SSTServiceCap.label>
+  <!-- EN: A standard-issue cap for Navy personnel. It's really just a piece of fabric with a nice little badge to play dress-up in, damn flyboys. -->
+  <Apparel_SSTServiceCap.description>A standard-issue cap for Navy personnel. It's really just a piece of fabric with a nice little badge to play dress-up in, damn flyboys.</Apparel_SSTServiceCap.description>
+  <!-- EN: Service Cap White (SST) -->
+  <Apparel_SSTServiceCapWhite.label>Service Cap White (SST)</Apparel_SSTServiceCapWhite.label>
+  <!-- EN: A standard-issue cap for Navy personnel who are allowed to wear something other than navy-green. It's really just a piece of fabric with a nice little badge to play dress-up in. But oooh wait, it's white! How fancy.. -->
+  <Apparel_SSTServiceCapWhite.description>A standard-issue cap for Navy personnel who are allowed to wear something other than navy-green. It's really just a piece of fabric with a nice little badge to play dress-up in. But oooh wait, it's white! How fancy..</Apparel_SSTServiceCapWhite.description>
+  <!-- EN: Helmet visor (SST) -->
+  <Apparel_SSTVisHelmet.label>Helmet visor (SST)</Apparel_SSTVisHelmet.label>
+  <!-- EN: A standard-issue helmet fielded by the Mobile Infantry. Comes in only Grey, you ape. -->
+  <Apparel_SSTVisHelmet.description>A standard-issue helmet fielded by the Mobile Infantry. Comes in only Grey, you ape.</Apparel_SSTVisHelmet.description>
+</LanguageData>

@@ -1,4 +1,4 @@
-# StarshipTroopersUniforms
+# [Starship Troopers - Uniforms (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2362290847)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,12 +6,10 @@ Update of ✯KStrudel✯™ and Odstrimans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1399002234
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
 ![Image]( https://i.imgur.com/vAQ7CmE.gif )
-
 #  FEDNET BROADCAST: 
 
 
@@ -19,11 +17,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1399002234
 
 ![Image]( https://media.giphy.com/media/JtrlqX5gCiixG/giphy.gif )
 
-
 #  DRESS LIKE A TRUE CITIZEN TODAY! 
 
 
-The personnel of the United Citizen's Federation needs clothing, and we seek to supply such demand. From fleet to Mobile Infantry, Marines to Naval Intelligence; we have it all! Not one man or woman will be found with ought their proper uniform; after all, you can't [strike] die [/strike] kill bugs in regular civilian clothing!
+The personnel of the United Citizen's Federation needs clothing, and we seek to supply such demand. From fleet to Mobile Infantry, Marines to Naval Intelligence; we have it all! Not one man or woman will be found with ought their proper uniform; after all, you can't ~~ die ~~ kill bugs in regular civilian clothing!
 
 #  TROUBLE IN THE QUARANTINE ZONE: 
 
@@ -41,38 +38,38 @@ Military outposts are far and few between in the outer edges of the galaxy, maki
 
 These brave Citizens have contributed their time and energy to let this addon come together. Let them be an example for the ideal civilian to look up to!
 
-[u] Odstriman [/u] - Coding, textures were based off of one of his upcoming addons. Would you like to know [spoiler] https://steamcommunity.com/profiles/76561198087553011/myworkshopfiles/?appid=294100] More  ? [/spoiler]
+<ins> Odstriman </ins> - Coding, textures were based off of one of his upcoming addons. Would you like to know [spoiler] [ More ](https://steamcommunity.com/profiles/76561198087553011/myworkshopfiles/?appid=294100) ? [/spoiler]
 
-[u] Chicken Plucker [/u] - Assisted with the coding, helped clear many bugs out of the Federation's way. Would you like to know [spoiler] https://steamcommunity.com/id/chickenfcker/myworkshopfiles/] More  ? [/spoiler]
+<ins> Chicken Plucker </ins> - Assisted with the coding, helped clear many bugs out of the Federation's way. Would you like to know [spoiler] [ More ](https://steamcommunity.com/id/chickenfcker/myworkshopfiles/) ? [/spoiler]
 
-[u] Walking Problem [/u] - Though he did not support the project directly, his amazing Arachnids for Rimworld inspired me to create this addon as a response to the bug threat he created. Would you like to know [spoiler] https://steamcommunity.com/id/mingji/myworkshopfiles/?appid=294100] More  ?[/spoiler]
+<ins> Walking Problem </ins> - Though he did not support the project directly, his amazing Arachnids for Rimworld inspired me to create this addon as a response to the bug threat he created. Would you like to know [spoiler] [ More ](https://steamcommunity.com/id/mingji/myworkshopfiles/?appid=294100) ?[/spoiler]
 
-[u] 𝕶.𝕾trudel [/u] - Creator, made all of the textures/artwork and designed the addon. Man its wierd typing in the third-person.
+<ins> 𝕶.𝕾trudel </ins> - Creator, made all of the textures/artwork and designed the addon. Man its wierd typing in the third-person.
 
 #  EXTRA INFORMATION 
 
 
 I highly urge all of you to download the Starship troopers arachnid mod, created by Walking Problem. This addon and the ones to follow are meant to be played with it for the full Starship Troopers Experience!
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=928992405] Starship Troopers Arachnids 
+[ Starship Troopers Arachnids ](https://steamcommunity.com/sharedfiles/filedetails/?id=928992405)
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1166864112] Starship Troopers Arachnids HARDCORE ADDON [The way its meant to be played] 
+[ Starship Troopers Arachnids HARDCORE ADDON [The way its meant to be played] ](https://steamcommunity.com/sharedfiles/filedetails/?id=1166864112)
 
 #  COMPATIBILITIES 
 
 
-[u] A l l  a d d o n s  a r e  c o m p a t i b l e. [/u] [spoiler] Yes, it works with Combat Extended. We'll upload the weapons seperately for this reason. [/spoiler]
+<ins> A l l  a d d o n s  a r e  c o m p a t i b l e. </ins> [spoiler] Yes, it works with Combat Extended. We'll upload the weapons seperately for this reason. [/spoiler]
 
 #  FUTURE RELEASES 
 
 
-[u] Weapons [/u] - https://steamcommunity.com/sharedfiles/filedetails/?id=1408445111
+<ins> Weapons </ins> - https://steamcommunity.com/sharedfiles/filedetails/?id=1408445111
 
-[u] Power-Armor [/u] - https://steamcommunity.com/sharedfiles/filedetails/?id=1638556887
+<ins> Power-Armor </ins> - https://steamcommunity.com/sharedfiles/filedetails/?id=1638556887
 
-[u] Structures [/u] - I'm hoping these can be done, I have the art for them almost finished, however I don't really know how to implement them code-wise.
+<ins> Structures </ins> - I'm hoping these can be done, I have the art for them almost finished, however I don't really know how to implement them code-wise.
 
-[u] Gear/Assortments [/u] - This pertains to backpacks, extra gear pouches, radios ect. These will be smaller updates that I will work on putting into this addon, so stay tuned!
+<ins> Gear/Assortments </ins> - This pertains to backpacks, extra gear pouches, radios ect. These will be smaller updates that I will work on putting into this addon, so stay tuned!
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -80,13 +77,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1166864112] Starship Troo
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2362290847]![Image](https://img.shields.io/github/v/release/emipa606/StarshipTroopersUniforms?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/StarshipTroopersUniforms?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2362290847) | tags:  bug menace,  military
